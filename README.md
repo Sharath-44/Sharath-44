@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![An image of @sharath44's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharath44)](https://holopin.io/@sharath44)
+
 <!--
 **Sharath-44/Sharath-44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
