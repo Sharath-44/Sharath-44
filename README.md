@@ -12,16 +12,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sharath-m-s-38317b220/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://codesandbox.io/u/sharath-44" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codesandbox.svg" alt="CodeSandbox" height="30" width="40" />
+    <img align="center" src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://instagram.com/sharxth7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="sharxth7" height="30" width="40" />
+    <img align="center" src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="sharxth7" height="30" width="40" />
 </a>
 <a href="mailto:sharath.work20@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="sharath.work20@gmail.com" height="30" width="40" />
+    <img align="center" src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="sharath.work20@gmail.com" height="30" width="40" />
 </a>
 </p>
 
