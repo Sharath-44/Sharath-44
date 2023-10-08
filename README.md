@@ -12,13 +12,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sharath-m-s-38317b220/" target="blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://instagram.com/sharxth7" target="blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:sharath.work20@gmail.com" target="blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
