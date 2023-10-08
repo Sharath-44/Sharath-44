@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharath M S</h1>
 <h3 align="center">Diving deep into Neural Networks 🧠 | Fluttering through app development 🦋</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharath-44" alt="sharath-44" /></a> </p>
-
 - 💬 Ask me about **react, flutter and deep learning**
 
 - 📫 How to reach me **sharath.work20@gmail.com**
