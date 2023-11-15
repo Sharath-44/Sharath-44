@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharath-44&show_icons=true&locale=en&layout=compact" alt="sharath-44" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharath-44&show_icons=true&locale=en" alt="sharath-44" /></p>
+
+[![An image of @sharath44's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharath44)](https://holopin.io/@sharath44)
