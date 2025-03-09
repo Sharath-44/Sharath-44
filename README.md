@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/sharath-m-s-38317b220/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/sharxth7" target="blank">
+<a href="https://instagram.com/sharxth4" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:sharath.work20@gmail.com" target="blank">
