@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharath M S</h1>
 <h3 align="center">Diving deep into Neural Networks 🧠 | Fluttering through app development 🦋</h3>
 
-- https://sharath-m-s.netlify.app/
+- 🌐 [Personal Portfolio](https://sharath-m-s.netlify.app/)
 
 - 📫 How to reach me **sharath.work20@gmail.com / sharath.shashidhara@gmail.com**
 
